@@ -16,7 +16,7 @@
  
  ### 사용 기술 stack
  
- ![image](./dataset/stack.png)
+ ![image](./data/stack.png)
 
 
 ### System Architecture  
@@ -37,5 +37,12 @@
    - 이상행동 탐지 모델링 code를 flask와 연동해 실시간 이상탐지 스트리밍 웹 페이지 구현  
 
 ## 프로젝트 결과
+
+![image](./data/res1.png)
+![image](./data/res2.png)
+![image](./data/res3.png)
+![image](./data/res4.png)
+![image](./data/res5.png)
+![image](./data/res6.png)
 
 

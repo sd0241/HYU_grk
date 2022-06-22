@@ -21,7 +21,7 @@
 
 ### System Architecture  
 
- ![image](./dataset/arc.png)    
+ ![image](./data/arc.png)    
 
 
 

@@ -42,7 +42,7 @@
 ![image](./data/res2.png)
 ![image](./data/res3.png)
 ![image](./data/res4.png)
-![image](./data/res5.png)
-![image](./data/res6.png)
+![image](./data/res.png)
+
 
 

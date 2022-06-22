@@ -38,11 +38,15 @@
 
 ## 프로젝트 결과
 
-![image](./data/res1.png)
-![image](./data/res2.png)
-![image](./data/res3.png)
-![image](./data/res4.png)
-![image](./data/res.png)
-
+![image](./data/res1.png)  
+**KISA 평가점수 산출 방법**  
+![image](./data/res2.png)  
+**1차 성능평가 지표 점수**  
+![image](./data/res3.png)  
+**2차 성능평가 지표 점수**  
+![image](./data/res4.png)  
+**성과 달성표**  
+![image](./data/res.png)  
+**시연 결과**  
 
 

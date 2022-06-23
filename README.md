@@ -10,9 +10,8 @@
  ### 상세 과정
  1. Pyspark+OpenCV로 실시간 화면(노트북) 인식 및 프레임 단위로 쪼갠 후 kafka에 저장(buffer)
  2. kafka 프레임 데이터 Yolov5 모델링
- 3. 모델링 데이터 pandas로 dataframe화 시킨 후 HDFS에 분산 저장
- 4. HDFS 적재 데이터 pyspark+OpenCV로 역직렬화(디코딩)
- 5. 디코딩 된 데이터 flask로 출력
+ 3. Pyspark+OpenCV로 디코딩
+ 4. 디코딩 된 데이터 flask로 출력
  
  ### 사용 기술 stack
  

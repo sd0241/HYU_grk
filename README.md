@@ -18,10 +18,6 @@
  ![image](./data/stack.png)
 
 
-### System Architecture  
-
- ![image](./data/arc.png)    
-
 
 
 ## 인원 및 역할  
